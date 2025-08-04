@@ -63,10 +63,6 @@ Huawei Egypt
 
 Egyptian Ministry of Communications and Information Technology (MCIT)
 
-📬 Contact
-For inquiries or collaboration:
-📧 info@nti.edu.eg
-🌐 NTI Official Website
 
 🏆 Empowering the AI Leaders of Tomorrow
 “Made in Egypt. Powered by Huawei. Built for the Future.”
